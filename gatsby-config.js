@@ -3,8 +3,26 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `theuxtoolbox`,
-    siteUrl: `https://www.yourdomain.tld`,
+    title: `The UX Toolbox`,
+    siteUrl: `https://www.theuxtoolbox.com`,
+    menuLinks: [
+      {
+        name: "Home",
+        link: "/",
+      },
+      {
+        name: "Catalogue",
+        link: "/catalogue",
+      },
+      {
+        name: "About",
+        link: "/about",
+      },
+      // {
+      //   name: "Shop",
+      //   link: "#",
+      // },
+    ],
   },
   plugins: [
     "gatsby-plugin-sass",

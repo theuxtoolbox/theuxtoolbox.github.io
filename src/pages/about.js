@@ -1,14 +1,17 @@
 import * as React from "react";
+import Helmet from "react-helmet";
+
 import Layout from "../components/layout";
 
-const IndexPage = () => {
+const AboutPage = () => {
   return (
     <Layout>
+      <Helmet title="About" />
       <main>
-        <h1>The UX Toolbox</h1>
+        <h1>About</h1>
       </main>
     </Layout>
   );
 };
 
-export default IndexPage;
+export default AboutPage;
