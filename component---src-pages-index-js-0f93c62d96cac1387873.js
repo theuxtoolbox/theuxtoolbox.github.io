@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktheuxtoolbox=self.webpackChunktheuxtoolbox||[]).push([[678],{6558:function(e,l,t){t.r(l);var n=t(7294),u=t(8678);l.default=()=>n.createElement(u.Z,null,n.createElement("main",null,n.createElement("h1",null,"The UX Toolbox")))}}]);
+//# sourceMappingURL=component---src-pages-index-js-0f93c62d96cac1387873.js.map

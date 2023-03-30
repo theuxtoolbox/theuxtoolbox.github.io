@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktheuxtoolbox=self.webpackChunktheuxtoolbox||[]).push([[682],{5465:function(e,t,l){l.r(t);var u=l(7294),n=l(4593),a=l(8678);t.default=()=>u.createElement(a.Z,null,u.createElement(n.Z,{title:"About"}),u.createElement("main",null,u.createElement("h1",null,"About")))}}]);
+//# sourceMappingURL=component---src-pages-about-js-4176868f482abc06120a.js.map
